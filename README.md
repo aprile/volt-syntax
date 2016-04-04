@@ -1,5 +1,5 @@
 # volt-syntax theme
 
-Custom theme for Atom editor.
+Clean & Bright theme for Atom editor.
 
-![A screenshot of your theme](https://github.com/aprileelcich/volt-syntax/blob/master/voltshot.png)
+![A screenshot of your theme](https://github.com/aprileelcich/volt-syntax/blob/master/volt-theme.png)
